@@ -1,16 +1,22 @@
 The science which studies human behavior as a relationship between ends and scarce means which have alternative uses. ” This broad deﬁnition remains the most popular one in use today
 
-
-
 Economics is, at root, the study of incentives: how people get what they want, or need, especially when other people want or need the same thing.
 
 when revolutions in Russia and China brought almost a third of the world under communist rule, with planned economies rather than competitive markets. The rest of the world, however, was concerned with asking whether the markets alone could be trusted to provide prosperity. While continental Europe and Britain argued about degrees of government intervention, the real battle of ideas was fought in the US during the
 
-
-
 And sociology into their theories, as well as new advances in mathematics and physics, such as game theory and chaos theory. These theorists also warned of weaknesses in the capitalist system. The increasingly severe and frequent ﬁnancial crises that took place at the beginning of the 21st century reinforced the feeling that there was something fundamentally wrong in the system; at the same time scientists concluded that our ever-increasing economic wealth came at a cost to the environment in the form of potentially disastrous climate change. As Europe and the
 
-
-
 The ﬁrst lesson of economics is scarcity: there is never enough of anything to satisfy all those who want it. The ﬁrst lesson of politics is to disregard the ﬁrst lesson of economics. Thomas Sowell
+
+
+
+The 19th-century Scottish historian Thomas Carlyle described economics as the “dismal science” that is “dreary, desolate, and, indeed, quite abject and distressing. ” Another common misconception is that it is “all about money,” and while this has a grain of truth, it
+
+phenomena.Economies, however, are man-made and are dependent on the rational or irrational behavior of the humans that act within them, so economics as a science has more in common with the “soft sciences” of psychology, sociology, and
+
+Market maker is a player on a market for a good or security who provides both buy and sell opportunities for traders, thus making this market more liquid. Market makers hold both the security/good and cash in inventories in order to be able to take the opposite side of trading order volume to ﬁx imbalance in buy and sell orders.Market-makers earn on bid-ask spreads, but
+
+traders: responsible for creation of purchasing/sell orders;  market makers \(specialists\): display public buy & sell quotations for a guaranteed number of securities/goods to traders and fulﬁll orders from traders at these quotations;  dealers: buy and sell securities/goods from traders but do not disclose quotes publicly;  brokers: carry out orders on behalf of their clients. Liquid trade is of great importance for the stability and eﬀectiveness of ﬁnancial markets. Market making is an established trading practice, which has inspired much research, both theoretical and empirical. Most of the theoretical research papers model market maker as a single player with whom other market players can trade, with no trading activity apart from that. On the other hand, there are some research papers where market makers compete with middlemen \(dealers/brokers\). In this model, the author introduces market-makers to a model by D. Spulber with buyers, sellers and dealers. A number of researchers have focused on the optimal behavior of a market maker \(specialist\). Some papers examine the eﬀect of risk aversion and inventory on the pricing policies of a market maker. In another paper, the authors study the proﬁtability of market making strategies. Other researchers model bid-ask spread as a need to compensate for losses due to adverse selection problem: traders who engage in trade with a market-maker might know information that the market maker does not know. Recent papers have focused on combining ﬁnancial market maker model with the ﬁeld of artiﬁcial intelligence; high frequency trading has made a signiﬁcant footprint in market-marking models. For example, Abraham Othman combines two concepts — automated market making from the artiﬁcial intelligence literature and risk measures from the ﬁnance literature. In another paper, the author studies the impact of high frequency market making on liquidity, price discovery and institutional traders’ returns. Beneﬁts of market making:  liquidity provision \(buyers and sellers do not need to make orders simultaneously\);  reduction in dealers’ bid-ask spreads due to MM publicly quoting prices;  less uncertainty due to market maker displaying quotes publicly;  lower search costs because traders do not need to search other traders or dealers to sell at good price;  market maker can tax and subsidize transactions by changing bid and ask prices;  lower transaction costs for all players due to centralized exchange;  lower market volatility because ﬂuctuations of demand and supply are smoothed.9
+
+
 
