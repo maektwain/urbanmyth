@@ -10,7 +10,7 @@ Urban myth breaks paradigm about blockchain tehcnology from socialistic and capi
    has changed the world inside the banking. We find how technology has supported or increased the headache of banks or the customer.
 
 3. Theory of Commons : What is common wealth how one defines the spirit of work which goes transnational without any boundaries breaking all the barries.  
-   Everything around us reflect the human will even the banking and technology cannot evade out of it. We understand the commons how in the history   
+   Everything around us reflect the human will even the banking and technology cannot evade out of it. We understand the commons how in the history  
    we have been able to manipulate the pleothera of data on our desires to obtain results as we want.
 
 4. Money : Unit of account , exchange of value and store of value lets see how this definition has taken a huge leap of shift from credit to debit  
@@ -42,4 +42,14 @@ We are also looking for co-authors.
 ## Next release
 
 March 2018
+
+
+
+## References 
+
+
+
+## 
+
+
 
