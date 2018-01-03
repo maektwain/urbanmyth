@@ -14,3 +14,10 @@ Money has its own issues like store of value , hoarding is a practice with money
 Theft, easily tampered , centralisation
 7. Potential Frauds 
 8. Inspired by F.A. Hayek’s and George Selgin’s work on Free Banking theory,
+
+## Status quo
+
+Modern financial systems have enabled rapid economic expansion and improved the lives of billions around the world. However, the fundamental design of the system has led to an unreasonable concentration of wealth and power in the hands of those who manage it. Financial crises are a matter of when, not if, and third world countries have not experienced nearly the same benefits as those in the first world.
+
+
+## Current model of central banks
