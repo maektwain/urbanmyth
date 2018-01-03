@@ -21,3 +21,19 @@ Modern financial systems have enabled rapid economic expansion and improved the 
 
 
 ## Current model of central banks
+
+Central banks acts as bankers bank, where finacial institutions provide services to individuals central banks provide services to financial institutions.
+
+The most important task of the RBI is managing the supply of INR through a process known as monetary policy. The goals of this policy are sustainable economic growth, full employment, and stable prices. Through monetary policy the RBI and other central banks attempt to “tweak” the economy to the right levels. For example, if the economy is showing signs of slowing growth, the RBI may determine that it’s best to lower interest rates. As interest rates decline more individuals and businesses are willing to borrow to finance investments, purchases, or other forms of financial activity, increasing overall spending in the Indian economy.
+
+Central banks affect the money supply
+
+1. Open market operations
+2. Discount rate
+3. Reserve requirements
+
+## Value of Rupee
+
+
+
+
