@@ -34,6 +34,15 @@ Central banks affect the money supply
 
 ## Value of Rupee
 
+Many economist will tell you that Rupee has value due to social acceptance and use of Rupee as medium of exchange. But people wouldn't accept it as a medium of exchange unless they belived it has a true value. This sort of circular reasoning is not sufficient for explaining value of rupee.
 
+Alternative understanding is that Rupee has it value from because of credit and the expected repayment of debts.
 
+1. Indian govt. exclusively conducts all of the financial transactions in Rupee,  govt. accepts Rupee for taxes and ensuring there is a significant demand of it.
+2. Commercial banks are in the business of using custome desposits as investment capital or to issue loans to other businesses, Indian FI are required by law to accept Rupee as form of repayment and deposits.
+3. The RBI like any other bank has a balance sheet which contains liabilities and assets. Assets are mostly Indian govt. debts and liabilities are typically reserves.
+
+There is nothing behind or intrinsic value of rupee it is just full faith and credit of INR as long as people are paying taxes in Rupee.
+
+Each country has its own central bank which is issuing currency backed by govt debts. Commercial banks loan this currency to businesses and consumer for use in capital investment, payment of wages. The result is interalted complexity with systematic risk. The value of currency depends on perception of the Indian govt ability to repay and performance of economy. Commercial banks health is tied to its ability to collect on outstanding liabilities. 
 
