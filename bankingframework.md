@@ -13,3 +13,4 @@ Money has its own issues like store of value , hoarding is a practice with money
 6. Last Century Money Issues.
 Theft, easily tampered , centralisation
 7. Potential Frauds 
+8. Inspired by F.A. Hayek’s and George Selgin’s work on Free Banking theory,
